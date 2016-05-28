@@ -1,0 +1,2 @@
+# informe na seguinte ordem: ip usuario senha e porta separados por um espaço apenas. A porta é opcional, o padrão é 22.
+# para comentar use "#" no inicio da linha.
