@@ -1,5 +1,5 @@
-# arpspoof-detect
-Detecta tentativa de arp spoof em paineis ubiquiti.
+# arpspoof-detect - GNU/LINUX
+Detecta tentativa de arp spoofing em paineis ubiquiti.
 
 Instalação:
 -----------
