@@ -3,7 +3,7 @@ Detecta tentativa de arp spoof em paineis ubiquiti.
 
 Instalação:
 -----------
-cd arpspoff-detect
+cd arpspoof-detect
 
 sh /install/install.sh
 
